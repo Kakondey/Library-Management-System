@@ -1,5 +1,3 @@
-
-
 <html>
   <head>
     <title>Admin panel.php</title>
